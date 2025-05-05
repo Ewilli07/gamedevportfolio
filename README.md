@@ -4,4 +4,5 @@ First year game development student, interested in learning how to make Rpgs, ho
 ## Personal email: edgarjwilliams07@gmail.com      
 ## School email: 9625565@graniteschools.org
 
+### Sprites worked on for Woodsman
 ![Kvathe](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif)
