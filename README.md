@@ -4,4 +4,3 @@ First year game development student, interested in learning how to make Rpgs, ho
 ## Personal email: edgarjwilliams07@gmail.com      
 ## School email: 9625565@graniteschools.org
 
-###### wassuppp
