@@ -4,4 +4,4 @@ First year game development student, interested in learning how to make Rpgs, ho
 ## Personal email: edgarjwilliams07@gmail.com      
 ## School email: 9625565@graniteschools.org
 
-![Kvathe]([https://github.com/user-attachments/assets/84aa4098-6375-4961-9ee4-35ad6156ff00](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif))
+![Kvathe]([https://github.com/user-attachments/assets/84aa4098-6375-4961-9ee4-35ad6156ff00](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif)
