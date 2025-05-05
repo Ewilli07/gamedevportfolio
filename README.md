@@ -6,6 +6,8 @@ First year game development student, interested in learning how to make Rpgs, ho
 
 ## GameDev2 project woodsman
 https://github.com/rabiescats/Production-Team-1
+#### This is the portfolio for my Game dev 2 group project "Woodsman" it is a fast paced Melee FPS where you collect parts from destroyed robots and attatch them to your arms to collect weapons and sidearms. it is set in a post apocolyptic setting and is level based
+
 
 ### Sprites worked on for Woodsman
 ![Kvathe](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif)
