@@ -7,3 +7,5 @@ First year game development student, interested in learning how to make Rpgs, ho
 ### Sprites worked on for Woodsman
 ![Kvathe](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif)
 #### Kvathe the Coyote Merchant ^^^
+
+![axelogo](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWilliamsAxeLogo.png)
