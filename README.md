@@ -9,3 +9,6 @@ First year game development student, interested in learning how to make Rpgs, ho
 #### Kvathe the Coyote Merchant ^^^
 
 ![axelogo](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWilliamsAxeLogo.png)
+#### logo concept for Woodsman
+
+![fimsh](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/edgarwilliamsfish.png)
