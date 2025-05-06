@@ -18,3 +18,7 @@ https://github.com/rabiescats/Production-Team-1
 
 ![fimsh](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/edgarwilliamsfish.png)
 #### Fish character concept
+
+## Certifications
+
+[Edgar Williams_Game Development Fundamentals_04302025.pdf](https://github.com/user-attachments/files/20051388/Edgar.Williams_Game.Development.Fundamentals_04302025.pdf)
