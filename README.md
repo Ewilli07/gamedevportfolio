@@ -11,13 +11,20 @@ https://github.com/rabiescats/Production-Team-1
 
 ### Sprites worked on for Woodsman
 ![Kvathe](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWCoyote.gif)
-#### Kvathe the Coyote Merchant ^^^
+#### Kvathe the Coyote Merchant
+##### One of the Merchants you could come across in the game, i made him for fun mostly but wanted to add him if we ever get the chance!
 
 ![axelogo](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/EdgarWilliamsAxeLogo.png)
 #### logo concept for Woodsman
+##### a concept for a desktop icon logo, made just for the logo video thing we had to do!
 
 ![fimsh](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/edgarwilliamsfish.png)
 #### Fish character concept
+##### Fish! hed be an npc youd come across, he was originally going to be a merchant but i didntt think he fit the vibe
+
+![starrt](https://github.com/Ewilli07/gamedevportfolio/blob/main/geekedbot.gif)
+#### Starting Screen i made
+##### a starting screen concept, id probably update the design of the Robot and add more design if it was going in the actual game!
 
 ## Certifications
 
