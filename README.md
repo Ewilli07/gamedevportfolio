@@ -26,6 +26,10 @@ https://github.com/rabiescats/Production-Team-1
 #### Starting Screen i made
 ##### a starting screen concept, id probably update the design of the Robot and add more design if it was going in the actual game!
 
+![script I made](https://github.com/Ewilli07/gamedevportfolio/blob/main/images/Screenshot%202025-05-12%2012.01.14%20PM.png)
+#### Woodsman Script
+##### A script that I, Edgar Williams, made for one of the assignments in the beggining of the project!
+
 ## Certifications
 
 [Edgar Williams_Game Development Fundamentals_04302025.pdf](https://github.com/user-attachments/files/20051388/Edgar.Williams_Game.Development.Fundamentals_04302025.pdf)
